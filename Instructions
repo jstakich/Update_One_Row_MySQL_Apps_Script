@@ -1,0 +1,6 @@
+This is an example of using an App Script that Updates one Row of a MySQL Database from a Google Sheet.
+Step-by-step guide
+Set a button in Google Sheets to call the following function
+The Update statement is updating two fields based off of 1 Cell
+Also Note the “1” that is in “ss.getSheets()[1]”
+This “1” refers to the sheet that your grabbing the fields off of.
